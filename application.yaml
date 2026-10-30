@@ -1,0 +1,14 @@
+user-id: pisanov
+
+task-server-address: 153.76.167.185
+
+task1-timeout: 35_000
+
+task3-attempts: 50
+
+task-ports:
+  task-1: 7001 # tcp
+  task-2: 7002 # tcp
+  task-3: 7003 # tcp
+  task-4: 7004 # udp
+  task-5: 7005 # tcp
